@@ -8,4 +8,5 @@ Estimating the mean and media of a set of numbers
 Solving the collision problem
 Solving NP complete problems
 May have interesting applications in DNA Structure
+
 Below, I'll implement the Grover's Search algorithm on 3, and 4 qubits. In quantum computing (unlike classical computing), the number of possible states is $2^N$ so 2 qubits = 4 states, 3 qubits = 8 states, and 4 qubits = 16 states.
